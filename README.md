@@ -1,3 +1,7 @@
+**Gesture-Controlled Presentation Tool**  
+This project uses computer vision and hand gesture recognition to control a presentation slideshow. It leverages OpenCV, MediaPipe, and CVZone to detect hand gestures for navigation (next/previous slide) and annotations on slides. The program processes real-time video input to enable intuitive interaction with presentation content without the need for physical devices.
+
+
 # gesture 1: pinky finger represent to go forward
 <img width="1440" alt="Screenshot 2024-12-08 at 10 44 40 AM" src="https://github.com/user-attachments/assets/73e6523e-24bc-45aa-86f8-98980219a74e">
 
